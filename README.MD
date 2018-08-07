@@ -1,12 +1,12 @@
 # easy-swagger 说明文档
 
-##1、下载代码，安装在本地仓库(maven依赖)
+## 1、下载代码，安装在本地仓库(maven依赖)
 ```
     git clone https://github.com/szliugx/easy-swagger.git
 
 ```
 
-##2、应用服务配置：
+## 2、应用服务配置：
 1、引入依赖
 ```
         <!--swagger插件-->
@@ -35,7 +35,7 @@
     @EnableEasySwagger
 ```
 
-##3、应用文件函数上注解作用（Swagger2 基本使用，非必须想要更详细的可配置）：
+## 3、应用文件函数上注解作用（Swagger2 基本使用，非必须想要更详细的可配置）：
 ```
     常用注解： 
     - @Api()用于类； 
